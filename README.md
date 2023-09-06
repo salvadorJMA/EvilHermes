@@ -6,7 +6,7 @@
 Tool developed to help detect vulnerabilities in the authentication systems (DKIM, SPF, DMARC) of SMTP servers:
 
 
-![Logo](images/EvilHermes.png "Logo")
+![Logo](images/EvilHermes.png "Logo" =250x)
 
 ## Starting 🚀
 
