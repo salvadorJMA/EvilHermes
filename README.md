@@ -46,12 +46,9 @@ pip3 install -r requirements.txt
 
 
 * [Python](https://www.python.org/) - Programming language used
-    * [PyQT](https://pythonpyqt.com/what-is-pyqt/) - Tool to create the GUI
-    * [FastAPI](https://fastapi.tiangolo.com/) - Tool to create the API
-    * [pyEPICS](https://pyepics.github.io/pyepics/overview.html) - Tool to interact with the EPICS IOC in our EPICS server
-    * [PyVISA](https://pyvisa.readthedocs.io/en/latest/) - Tool to create the libraries with which to control Anritsu MS2830A and Agilent N9020A machines via Ethernet
-* [EPICS](https://epics-controls.org/) - to share GUI data across the entire subnet quickly and easily
-* [OpenAPI](https://www.openapis.org/) - Standard to create the API
+    * [smtplib](https://docs.python.org/3/library/smtplib.html) -For sending emails
+    * [argparse](https://docs.python.org/3/library/argparse.html) - For command-line interface development
+    * [dkim](https://pypi.org/project/dkimpy/) - For dkim management
 
 ## Author ✒️
 
