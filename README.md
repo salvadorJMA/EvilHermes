@@ -6,7 +6,7 @@
 Tool developed to help detect vulnerabilities in the authentication systems (DKIM, SPF, DMARC) of SMTP servers:
 
 
-![Logo](images/EvilHermes.png "Logo" =250x)
+<img src="images/EvilHermes.png" width="300" height="300">
 
 ## Starting 🚀
 
@@ -57,7 +57,7 @@ pip3 install -r requirements.txt
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Expressions of Gratitude 🎁
 
