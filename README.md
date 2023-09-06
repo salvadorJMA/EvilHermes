@@ -3,10 +3,10 @@
 
 ## Project Summary 📃
 
-Herramienta desarrollada para ayudar a detectar vulnerabilidades en los sistemas de autenticación (DKIM, SPF, DMARC) de los servidores SMTP:
+Tool developed to help detect vulnerabilities in the authentication systems (DKIM, SPF, DMARC) of SMTP servers:
 
 
-![Logo](images/SYSTEM.png "System Overview")
+![Logo](images/EvilHermes.png "Logo")
 
 ## Starting 🚀
 
@@ -17,9 +17,9 @@ See **Deployment** to learn how to deploy the project.
 
 ### Pre requirements 📋
 
-* Python version used during development : **3.9.13**
-* Version of pip used during development: **22.1.2**
-* 64-bit system architecture if possible
+* Python version used during development : **3.8.10**
+* Version of pip used during development: **20.0.2**
+
 
 
 ### Installation 🔧
@@ -37,92 +37,6 @@ pip3 install -r requirements.txt
 
 
 ## Deployment 📦
-
-### API Deployment 🔑
-
-Possible modes of use depending on the version of python you have(means the same):
-
-```
-uvicorn api:api --reload
-```
-
-or
-```
-python -m uvicorn api:api --reload
-```
-or
-```
-python3 -m uvicorn api:api --reload
-```
-
-### EPICS IOC Deployment 🔓
-
-We have to deploy it on a device where EPICS has been previously installed for it to work properly.
-
-```
-softIoc -d TFG_EPICS_IOC.txt
-```
-
-### GUI Deployment 🔒
-
-Possible modes of use depending on the version of python you have:
-
-```
-python TFG_SALVADOR.py
-```
-or
-```
-python3 TFG_SALVADOR.py
-```
-
-
-
-
-## Testing Project - Click the images to see the videos ⚙️
-
-### GUI working - Anritsu machine 🔩
-
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/EyJyEqjn67A/hqdefault.jpg)](https://youtu.be/EyJyEqjn67A)           [![Watch the video](https://img.youtube.com/vi/PJkaKhMkvzs/hqdefault.jpg)](https://youtu.be/PJkaKhMkvzs) 
-
-<br>
-
-
-### GUI working - Agilent machine ⌨️
-
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/OBzyULWWtBo/hqdefault.jpg)](https://youtu.be/OBzyULWWtBo)
-
-<br>
-
-### GUI working - BLAS 🔧
-
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/F3Cda97Ct-Y/hqdefault.jpg)](https://youtu.be/F3Cda97Ct-Y)
-
-<br>
-
-
-### GUI working in Tablet Raspberry 💻
-
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/_QuZN7sVWnI/hqdefault.jpg)](https://youtu.be/_QuZN7sVWnI)
-
-<br>
-
-
-
-### GUI translation example📢
-
-<br>
-
-[![Watch the video](https://img.youtube.com/vi/pacES_BvcD0/hqdefault.jpg)](https://youtu.be/pacES_BvcD0)
-
-<br>
 
 
 ## Built with 🛠️
