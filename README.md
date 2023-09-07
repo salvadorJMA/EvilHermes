@@ -12,7 +12,7 @@ Tool developed to help detect vulnerabilities in the authentication systems (DKI
 
 _These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.._
 
-<img src="images/evilhermes2.png" width="650" height="250">
+<img src="images/evilhermes2.png">
 
 
 See **Deployment** to learn how to deploy the project.
