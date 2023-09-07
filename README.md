@@ -41,8 +41,11 @@ pip3 install -r requirements.txt
 
 ## Deployment 📦
 
+**Command-line interface:**
+
 <img src="images/menu.png" >
 
+**Example of use:**
 
 <img src="images/ejemplo.png">
 
